@@ -12,3 +12,5 @@ section: issue
 
 ---
 Region workloads were restarted. 
+--- 
+Disruptions are still being resolved
